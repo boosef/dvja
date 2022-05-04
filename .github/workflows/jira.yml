@@ -15,5 +15,5 @@ jobs:
           jira_url: 'https://booseftestbed.atlassian.net/'
           jira_user: '${{ secrets.JIRA_USER }}'
           jira_token: '${{ secrets.JIRA_TOKEN }}'
-          jira_project: 'GHAS'
+          jira_project: 'ghas-integration'
           sync_direction: 'gh2jira'

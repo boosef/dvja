@@ -12,7 +12,7 @@ jobs:
       - name: Sync alerts to Jira issues
         uses: github/ghas-jira-integration@bidirectional_sync
         with:
-          jira_url: 'https://https://booseftestbed.atlassian.net/'
+          jira_url: 'https://booseftestbed.atlassian.net/'
           jira_user: '${{ secrets.JIRA_USER }}'
           jira_token: '${{ secrets.JIRA_TOKEN }}'
           jira_project: 'GHAS'

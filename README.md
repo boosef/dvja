@@ -1,3 +1,5 @@
+AWS_ACCESS_KEY_ID="AKIAZBQE345LKPTEAHQD" AWS_SECRET_ACCESS_KEY="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"
+
 # Damn Vulnerable Java Application
 
 ## Quick Start
